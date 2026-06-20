@@ -1,0 +1,18 @@
+{
+"name": "MrZeFr Blog",
+"short_name": "MrZeFr",
+"description": "MrZeFr Blog",
+"start_url": "/",
+"scope": "/",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#3b82f6",
+"orientation": "portrait-primary",
+"icons": [
+  {
+   "src": "https://kodo.mrzefr.top/avatar.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
